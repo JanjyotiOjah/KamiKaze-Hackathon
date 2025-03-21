@@ -77,6 +77,6 @@ def main(file_path):
     print("Generated Question-Answer Pairs:\n", json.dumps(qa_pairs, indent=4))
     save_to_json(qa_pairs, file_path)
 
-# Example usage
-file_path = f"{pdf_path}_extracted.txt"  # Change this to your actual file path
+
+file_path = f"{pdf_path}_extracted.txt" 
 main(file_path)
