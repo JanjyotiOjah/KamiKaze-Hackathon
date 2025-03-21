@@ -6,7 +6,7 @@ st.title("Student Doubt Solver")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key = #not uploaded due to privacy reasons. feel free to use your own api key and test it.
+    api_key = "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"
 )
 
 def doubt_solver(student_class,subject_name,student_doubt):
@@ -72,4 +72,8 @@ with st.form(key="user_info"):
                 response = doubt_solver(form_values["class"], form_values["subject"], form_values["doubt"])
                 st.subheader("Answer:")
                 st.write(response)
+                feedback = st.slider("How was the answer?", 0, 10, 5)
+                feedback_submit = st.form_submit_button("Submit Feedback")
 
+                if feedback_submit:
+                    st.write("thanks")
