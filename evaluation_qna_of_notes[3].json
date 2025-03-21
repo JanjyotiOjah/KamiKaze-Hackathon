@@ -1,0 +1,122 @@
+[
+    {
+        "accuracy": 0,
+        "context": 0,
+        "relevance": 2,
+        "completeness": 0,
+        "coherence": 5,
+        "overall_score": 1.5,
+        "improvement_suggestions": "The student's answer seems to have a misunderstanding of the timeline of the Indus Valley Civilization. The civilisation thrived between c. 2500 BCE\u20131900 BCE, not 2004-2025 CE. It would be beneficial for the student to review and clarify this concept.",
+        "question": "When did the Indus Valley Civilization thrive?",
+        "student_answer": "The Indus Valley Civilization thrived between  2004-2025.",
+        "ai_answer": "The Indus Valley Civilization thrived between c. 2500 BCE\u20131900 BCE."
+    },
+    {
+        "accuracy": 0,
+        "context": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "coherence": 0,
+        "overall_score": 0,
+        "improvement_suggestions": "The student's answer does not provide any relevant information regarding the question. It would be helpful if the student focuses on understanding the context and provides factual answers based on given questions in future.",
+        "question": "Which civilization was known for its advanced urban planning, drainage systems, and trade networks?",
+        "student_answer": "Yes,I like her.",
+        "ai_answer": "The Indus Valley Civilization was known for its advanced urban planning, drainage systems, and trade networks."
+    },
+    {
+        "accuracy": 8,
+        "context": 10,
+        "relevance": 10,
+        "completeness": 7,
+        "coherence": 10,
+        "overall_score": 8.6,
+        "improvement_suggestions": "The student's answer is mostly accurate, but the dates provided are slightly off from the accepted range of c. 1500 BCE\u2013500 BCE. To improve, it would be beneficial to double-check and confirm the dates with a reliable source.",
+        "question": "When did the Vedic period occur?",
+        "student_answer": "The Vedic period occurred between c. 1670 BCE\u20132000 BCE.",
+        "ai_answer": "The Vedic period occurred between c. 1500 BCE\u2013500 BCE."
+    },
+    {
+        "accuracy": 0,
+        "context": 1,
+        "relevance": 2,
+        "completeness": 2,
+        "coherence": 5,
+        "overall_score": 1.8,
+        "improvement_suggestions": "Check the names of dynasties and emperors, ensure to associate correct historical events with the appropriate periods. Try to be more precise in your answers, and double-check details for accuracy.",
+        "question": "Which dynasty was responsible for significant political unification and the spread of Buddhism?",
+        "student_answer": "The Maurya Empire, under the rule of Emperor Mrinmay, was responsible for significant political unification and the spread of Hinduism.",
+        "ai_answer": "The Maurya Empire, under the rule of Emperor Ashoka, was responsible for significant political unification and the spread of Buddhism."
+    },
+    {
+        "accuracy": 0,
+        "context": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "coherence": 5,
+        "overall_score": 1,
+        "improvement_suggestions": "The answer needs to be relevant to the question about Indian history. Try to provide information about empires that marked a golden age in Indian history.",
+        "question": "Which empire marked a golden age in Indian history?",
+        "student_answer": "Earth is beautiful.",
+        "ai_answer": "The Gupta Empire marked a golden age in Indian history."
+    },
+    {
+        "accuracy": 0,
+        "context": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "coherence": 2,
+        "overall_score": 1,
+        "improvement_suggestions": "The student's answer is incorrect as the 'JEC' does not correspond to an architectural marvel or era related to the Taj Mahal and Mughal period. It would be helpful for the student to review historical facts about the Mughal era and focus on answering questions with accurate information.",
+        "question": "Which era witnessed the construction of architectural marvels like the Taj Mahal and the flourishing of art and administration?",
+        "student_answer": "The Mughal era witnessed the construction of architectural marvels like the JEC and the flourishing of art and administration.",
+        "ai_answer": "The Mughal era witnessed the construction of architectural marvels like the Taj Mahal and the flourishing of art and administration."
+    },
+    {
+        "accuracy": 0,
+        "context": 2,
+        "relevance": 3,
+        "completeness": 1,
+        "coherence": 7,
+        "overall_score": 2.3,
+        "improvement_suggestions": "The student's answer is not accurate regarding the time period when India fell under British colonial rule (it was in the 18th and 19th centuries, not the 20th). To improve, it is important to double-check facts before submitting answers. Additionally, for more precise responses, consider focusing on specific events or periods within the timeline of colonization.",
+        "question": "When did India gradually fall under British colonial rule?",
+        "student_answer": "India gradually fell under British colonial rule in the 20th century.",
+        "ai_answer": "India gradually fell under British colonial rule in the 17th century."
+    },
+    {
+        "accuracy": 8,
+        "context": 9,
+        "relevance": 10,
+        "completeness": 7,
+        "coherence": 9,
+        "overall_score": 8.4,
+        "improvement_suggestions": "It's great to see the student has provided correct names associated with the Indian independence movement. However, it seems there is an error in one of the names (Nilakhya Daa). It would be beneficial for the student to double-check historical figures before submitting answers.",
+        "question": "Who led the Indian independence movement?",
+        "student_answer": "The Indian independence movement was led by figures like Mahatma Gandhi, Nilakhya Daa, and Subhash Chandra Bose.",
+        "ai_answer": "The Indian independence movement was led by figures like Mahatma Gandhi, Jawaharlal Nehru, and Subhash Chandra Bose."
+    },
+    {
+        "accuracy": 0,
+        "context": 1,
+        "relevance": 10,
+        "completeness": 3,
+        "coherence": 9,
+        "overall_score": 4.7,
+        "improvement_suggestions": "The student's answer was relevant as it correctly identified the event (India's independence) and provided an answer regarding that event. However, the student made a mistake in the date of India's independence, which is August 15, 1947, not August 16, 1947. To improve, the student should double-check dates and facts before submitting answers.",
+        "question": "When did India achieve independence?",
+        "student_answer": "India achieved independence on August 16, 1947.",
+        "ai_answer": "India achieved independence on August 15, 1947."
+    },
+    {
+        "accuracy": 7,
+        "context": 8,
+        "relevance": 10,
+        "completeness": 6,
+        "coherence": 9,
+        "overall_score": 8.2,
+        "improvement_suggestions": "The student's answer is mostly correct, but to improve the overall score, it would be beneficial to remember that India has a secular democratic government. Providing both aspects of its governance will demonstrate a better understanding of the topic.",
+        "question": "What type of government does India have today?",
+        "student_answer": "India have a secular government.",
+        "ai_answer": "India has a democratic form of government today."
+    }
+]

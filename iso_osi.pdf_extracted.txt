@@ -1,0 +1,257 @@
+1 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Physics Notes Class 11 CHAPTER 5 LAWS OF
+MOTION
+Inertia
+The property of an object by virtue of which it cannot change its state of rest or of uniform
+motion along a straight line its own, is called inertia.
+Inertia is a measure of mass of a body. Greater the mass of a body greater will be its inertia or
+vice-versa.
+Inertia is of three types:
+(i) Inertia of Rest When a bus or train starts to move suddenly, the passengers sitting in it falls
+backward due to inertia of rest.
+(ii) Inertia of Motion When a moving bus or train stops suddenly, the passengers sitting in it
+jerks in forward direction due to inertia of motion.
+(iii) Inertia of Direction We can protect yourself from rain by an umbrella because rain drops
+can not change its direction its own due to inertia of direction.
+Force
+Force is a push or pull which changes or tries to change the state of rest, the state of uniform
+motion, size or shape of a body.
+Its SI unit is newton (N) and its dimensional formula is [MLT-2
+].
+Forces can be categorized into two types:
+(i) Contact Forces Frictional force, tensional force, spring force, normal force, etc are the
+contact forces.
+(ii) Action at a Distance Forces Electrostatic force, gravitational force, magnetic force, etc are
+action at a distance forces.
+Impulsive Force
+A force which acts on body for a short interval of time, and produces a large change in
+momentum is called an impulsive force.
+Linear Momentum
+2 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+The total amount of motion present in a body is called its momentum. Linear momentum of a
+body is equal to the product of its mass and velocity. It is denoted by p.
+Linear momentum p = mu.
+Its S1 unit is kg-m/s and dimensional formula is [MLT-1
+].
+It is a vector quantity and its direction is in the direction of velocity of the body.
+Impulse
+The product of impulsive force and time for which it acts is called impulse.
+Impulse = Force * Time = Change in momentum
+Its S1 unit is newton-second or kg-m/s and its dimension is [MLT-1
+].
+It is a vector quantity and its direction is in the direction of force.
+Newton’s Laws of Motion
+1. Newton’s First Law of Motion
+A body continues to be in its state of rest or in uniform motion along a straight line unless an
+external force is applied on it.
+This law is also called law of inertia.
+Examples
+(i) When a carpet or a blanket is beaten with a stick then the dust particles separate out from it.
+(ii) If a moving vehicle suddenly stops then the passengers inside the vehicle bend outward.
+2. Newton’s Second Law of Motion
+The rate of change of linear momentum is proportional to the applied force and change in
+momentum takes place in the direction of applied force.
+Mathematically F &infi; dp / dt
+F = k (d / dt) (mv)
+where, k is a constant of proportionality and its value is one in SI and CGS system.
+F= mdv / dt = ma
+3 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Examples
+(i) It is easier for a strong adult to push a full shopping cart than it is for a baby to push the
+same cart. (This is depending on the net force acting on the object).
+(ii) It is easier for a person to push an empty shopping cart than a full one (This is depending on
+the mass of the object).
+3. Newton’s Third Law of Motion
+For every action there is an equal and opposite reaction and both acts on two different bodies
+Mathematically F12 = – F21
+Examples
+(i) Swimming becomes possible because of third law of motion.
+(ii) Jumping of a man from a boat onto the bank of a river.
+(iii) Jerk is produced in a gun when bullet is fired from it.
+(iv) Pulling of cart by a horse.
+Note Newton’s second law of motion is called real law of motion because first and third laws
+of motion can be obtained by it.
+The modern version of these laws is
+(i) A body continues in its initial state of rest or motion with uniform velocity unless acted on
+by an unbalanced external force.
+(ii) Forces always occur in pairs. If body A exerts a force on body B, an equal but opposite
+force is exerted by body B on body A.
+Law of Conservation of Linear Momentum
+If no external force acts on a system, then its total linear momentum remains conserved.
+Linear momentum depends on frame of reference but law of conservation of linear momentum
+is independent of frame of reference.
+Newton’s laws of motion are valid only in inertial frame of reference.
+4 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Weight (w)
+It is a field force, the force with which a body is pulled towards the centre of the earth due to
+gravity. It has the magnitude mg, where m is the mass of the body and g is the acceleration due
+to gravity.
+w = mg
+Apparent Weight in a Lift
+(i) When a lift is at rest or moving with a constant speed, then
+R = mg
+The weighing machine will read the actual weight.
+(ii) When a lift is accelerating upward, then apparent weight
+R1 = m(g + a)
+The weighing machine will read the apparent weight, which is more than the actual weight.
+(iii) When a lift is accelerating downward, then apparent weight
+R2 = m (g – a)
+The weighing machine will read the apparent weight, which is less than the actual weight.
+(iv) When lift is falling freely under gravity, then
+5 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+R2 = m(g – g)= 0
+The apparent weight of the body becomes zero.
+(v) If lift is accelerating downward with an acceleration greater than g, then body will lift from
+floor to the ceiling of the lift.
+Rocket
+Rocket is an example of variable mass following law of conservation of momentum.
+Thrust on the rocket at any instant F = – u (dM / dt)
+where u = exhaust speed of the burnt and dM / dt = rate 0f gases combustion of fuel.
+Velocity of rocket at any instant is given by u = vo + u loge (Mo / M )
+where, vo = initial velocity of the rocket,
+Mo = initial mass of the rocket and
+M = present mass of the rocket.
+If effect of gravity is taken into account then speed of rocket
+u = vo + u loge (Mo / M) – gt
+Friction
+A force acting on the point of contact of the objects, which opposes the relative motion is
+called friction.
+It acts parallel to the contact surfaces.
+Frictional forces are produced due to intermolecular interactions acting between the molecules
+of the bodies in contact.
+Friction is of three types:
+1. Static Friction
+It is an opposing force which comes into play when one body tends to move over the surface of
+the other body but actual motion is not taking place.
+Static friction is a self adjusting force which increases as the applied force is increased,
+2. Limiting Friction
+6 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+It is the maximum value of static friction when body is at the verge of starting motion.
+Limiting friction (fs) = μsR
+where μs
+, = coefficient of limiting friction and R = normal reaction.
+Limiting friction do not depend on area of contact surfaces but depends on their nature, i.e.,
+smoothness or roughness.
+If angle of friction is θ, then coefficient of limiting friction
+μs = tan θ
+3. Kinetic Friction
+If the body begins to slide on the surface, the magnitude of the frictional force rapidly
+decreases to a constant value fk kinetic friction.
+Kinetic friction, fk = μk N
+where μ k = coefficient of kinetic friction and N = normal force.
+Kinetic friction is of two types:
+(a) Sliding friction
+(b) Rolling friction
+As, rolling friction < sliding friction, therefore it is easier to roll a body than to slide.
+Kinetic friction (fk) = μk R
+where μk = coefficient of kinetic friction and R = normal reaction.
+Angle of repose or angle of sliding It is the minimum angle of inclination of a plane with the
+horizontal, such that a body placed on it, just begins to slide down.
+If angle of repose is a. and coefficient of limiting friction is μ, then
+μs = tan α
+Motion on an Inclined Plane
+When an object moves along an inclined plane then: different forces act on it like normal
+reaction of plane, friction force acting in opposite direction of motion etc. Different relations
+for the motion are given below.
+7 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Normal reaction of plane
+R = mg cos θ
+and net force acting downward on the block.
+F = mg sin θ – f
+Acceleration on inclined plane a = g (sin θ – μ cos θ)
+When angle of inclination of the plane from horizontal is less than the angle of repose (α), then
+(i) minimum force required to move the body up the inclined plane
+f1 = mg (sin θ + μ cos θ)
+(ii) minimum force required to push the body down the inclined plane
+f2 = mg (μ cos θ – sin θ) J
+Tension
+Tension force always pulls a body.
+Tension is a reactive force. It is not an active force.
+Tension across a massless pulley or frictionless pulley remain constant.
+Rope becomes slack when tension force becomes zero.
+Motion of Bodies in Contact
+(i) Two Bodies in Contact If F force is a applied on object of mass m1 then acceleration of the
+bodies
+a = F / (m1 + m2)
+8 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Contact force on m1 = m1a = m1F / (m1 + m2)
+Contact force on m2 = m2a = m2F / (m1 + m2)
+(ii) Three Bodies in Contact If F force is applied an object of mass m1, then acceleration of
+the bodies = F / (m1 + m2 + m3)
+Contact force between m1 and m2
+F1 = (m2 + m3) F / (m1 + m2 + m3)
+Contact force between m2 and m3
+F2 = m3 F / (m1 + m2 + m3)
+(iii) Motion of Two Bodies, One Resting on the Other
+(a) The coefficient of friction between surface of A and B be μ. If a force F is applied on the
+lower body A. then common acceleration of two bodies
+a = F / (M + m)
+Pseudo force acting on block B due to the accelerated motion
+f’= ma
+The pseudo force tends to produce a relative motion between bodies A and B and consequently
+a frictional force
+f = μ N = μmg is developed. For equilibrium
+ma ≤ μ mg or a ≤ μg
+(b) Let friction is also present between the ground surface and body A Let the coefficient of
+friction between the given surface and body A is μ1 and the coefficient of friction between the
+surfaces of bodies A and B is μ2 If a force F is applied on the lower body A
+9 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Net accelerating force = F – fA = F – μ1(M + m)g
+∴ Net acceleration
+a = F – μ1(M + m)g / (M + m) = F / (M + m) – μ g
+Pseudo force acting on the block B
+f’ = ma
+The pseudo force tends to produce a relative motion between the bodies A and B are
+consequently a frictional force fB = μ mg is developed. For equilibrium
+ma le; μ2 mg or a ≤ μ 2 g
+If acceleration produced under the the effect of force F is more than μ2g, then two bodies will
+not move together.
+(iv) Motion of Bodies Connected by Strings
+Acceleration of the system a = F / (m1 + m2 + m3)
+Tension in string T1 = F
+T2 = ( m2 + m3 ) a = (m2 + m3) F / (m1 + m2 + m3)
+T3 = m3a = m3F / (m1 + m2 + m3)
+Pulley Mass System
+(i) When unequal masses m1 and m2 are suspended from a pulley
+(m1 > m2)
+m1g – T = m1a, and T – m2g = m2a
+10 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+On solving equations, we get
+a = ((m1 – m2) / (m1 + m2)) * g
+T = 2m1m2 / (m1 + m2) * g
+(ii) When a body of mass m2 is placed frictionless horizontal surface, then
+Acceleration a = m1g / (m1 + m2)
+Tension in string T = m1m2g / (m1 + m2)
+(iii) When a body of mass m2 is placed on a rough horizontal surface, then
+Acceleration a = ((m1 – μm2) / (m1 + m2)) * g
+Tension in string T = (m1m2(1 + μ) / (m1 + m2)) * g
+(iv) When two masses m1 and m2 are connected to a single mass M as shown in figure, then
+11 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+m1g – T1 = m1a …..(i)
+T2 – m2g = m2a ……(ii)
+T1 – T2 = Ma …….(iii)
+Acceleration a = ((m1 – m2 / (m1 + m2 + M)) * g
+Tension T1 = (2m2 + M / (m1 + m2 + M) * m1g
+T2 = (2ma + M / (m1 + m2 + M) * m2g
+(v) Motion on a smooth inclined plane, then
+m1g – T = m1a …..(i)
+T – m2g sin θ = m2a ……(ii)
+Acceleration a = ((m1 – m2 sin θ/ (m1 + m2)) * g
+Tension T = m1m2(1 + sin θ) g / (m1 + m2)
+(vi) Motion of two bodies placed on two inclined planes having different angle of inclination,
+then
+Acceleration a = (m1 sin θ1 – m2 sin θ2) g / m1 + m2
+12 | P a g e
+www.ncerthelp.com (Visit for all ncert solutions in text and videos, CBSE syllabus, note and many more)
+Tension T = (m1m2 / m1 + m2) * (sin θ1 – sin θ2) g
