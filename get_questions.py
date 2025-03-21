@@ -44,10 +44,8 @@ def get_question_papers(topics,type_of_questions):
     
     output = convo.choices[0].message.content.strip()
 
-    # Splitting based on "Question Paper X:" to store them separately
-    papers = output.split("Question Paper")[1:]  # Removing empty first element
+    papers = output.split("Question Paper")[1:]  
 
-    # Storing each question paper in a separate variable
     paper_1 = "Question Paper" + papers[0].strip()
     paper_2 = "Question Paper" + papers[1].strip()
     paper_3 = "Question Paper" + papers[2].strip()
