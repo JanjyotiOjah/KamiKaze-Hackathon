@@ -79,7 +79,7 @@ def evaluate_qna(ai_qna_path, student_qna_path):
     for ai_entry, student_entry in zip(ai_qna, student_qna):
         if ai_entry.get("question") != student_entry.get("question"):
             print(f"Warning: Mismatched question detected - {ai_entry.get('question')}")
-            continue  # Skip if questions don't match
+            continue  
         
         question = ai_entry["question"]
         ai_answer = ai_entry["answer"]
@@ -92,7 +92,7 @@ def evaluate_qna(ai_qna_path, student_qna_path):
 
         evaluation_results.append(evaluation)
 
-    # Save evaluation results
+    
     output_file = f"evaluation_{student_qna_path}"
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(evaluation_results, file, indent=4)

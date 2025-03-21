@@ -4,14 +4,14 @@ from pdf2image import convert_from_path
 
 def extract_text_from_pdf(pdf_path):
     text = ""
-    reader = PdfReader(pdf_path)  # Ensure PyPDF2 is properly installed
+    reader = PdfReader(pdf_path)
 
     for page in reader.pages:
         page_text = page.extract_text()
         if page_text:
             text += page_text + "\n"
 
-    if not text:  # If no text is extracted, use OCR
+    if not text: 
         images = convert_from_path(pdf_path)
         for img in images:
             text += pytesseract.image_to_string(img) + "\n"

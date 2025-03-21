@@ -56,7 +56,6 @@ def save_qna_to_json(qna_data, file_path):
     """Saves the Q&A pairs to a JSON file (appends data from multiple iterations)."""
     json_file_path = os.path.splitext(file_path)[0] + "_qna.json"
 
-    # Load existing data if the file exists
     if os.path.exists(json_file_path):
         try:
             with open(json_file_path, 'r', encoding='utf-8') as json_file:
@@ -66,7 +65,6 @@ def save_qna_to_json(qna_data, file_path):
     else:
         existing_data = []
 
-    # Merge and remove duplicates
     combined_qna = remove_duplicates(existing_data + qna_data)
 
     try:
@@ -90,7 +88,7 @@ def main():
 
     teacher_remark = input("Enter additional instructions for the AI (Teacher Remark): ").strip()
     
-    for iteration in range(1, 4):  # Run 3 iterations
+    for iteration in range(1, 4):  
         print(f"\n🔄 Running Iteration {iteration}/3...")
         qna_data = generate_qna(text, teacher_remark, iteration)
         if qna_data:
